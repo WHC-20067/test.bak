@@ -7,8 +7,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 15">
 <link rel=File-List href="2018商品车加装产品-12-11.files/filelist.xml">
-<style id="2018商品车加装产品-12-11_29172_Styles">
-<!--table
+<style id="2018商品车加装产品-12-11_29172_Styles"><!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
 .font529172
@@ -26,7 +25,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;}
 .xl6329172
 	{padding-top:1px;
@@ -38,7 +37,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:"\@";
 	text-align:left;
@@ -56,7 +55,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:General;
 	text-align:center;
@@ -74,10 +73,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:"Short Date";
-	text-align:center;
+	text-align:left;
 	vertical-align:bottom;
 	mso-background-source:auto;
 	mso-pattern:auto;
@@ -87,18 +86,18 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:windowtext;
-	font-size:12.0pt;
-	font-weight:700;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:"\@";
+	mso-number-format:"Short Date";
 	text-align:center;
-	vertical-align:middle;
-	background:gray;
-	mso-pattern:black none;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
 	white-space:nowrap;}
 .xl6729172
 	{padding-top:1px;
@@ -110,13 +109,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:"\@";
 	text-align:center;
 	vertical-align:middle;
-	mso-background-source:auto;
-	mso-pattern:auto;
+	background:gray;
+	mso-pattern:black none;
 	white-space:nowrap;}
 .xl6829172
 	{padding-top:1px;
@@ -124,15 +123,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-left:1px;
 	mso-ignore:padding;
 	color:windowtext;
-	font-size:11.0pt;
-	font-weight:400;
+	font-size:12.0pt;
+	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:"\@";
 	text-align:center;
-	vertical-align:bottom;
+	vertical-align:middle;
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:nowrap;}
@@ -146,9 +145,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:General;
+	mso-number-format:"\@";
 	text-align:center;
 	vertical-align:bottom;
 	mso-background-source:auto;
@@ -159,12 +158,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:black;
-	font-size:12.0pt;
+	color:windowtext;
+	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:General;
 	text-align:center;
@@ -177,14 +176,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:red;
-	font-size:11.0pt;
+	color:black;
+	font-size:12.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:"\@";
+	mso-number-format:General;
 	text-align:center;
 	vertical-align:bottom;
 	mso-background-source:auto;
@@ -196,13 +195,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-left:1px;
 	mso-ignore:padding;
 	color:red;
-	font-size:12.0pt;
+	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:General;
+	mso-number-format:"\@";
 	text-align:center;
 	vertical-align:bottom;
 	mso-background-source:auto;
@@ -213,20 +212,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:windowtext;
-	font-size:11.0pt;
+	color:red;
+	font-size:12.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:"\@";
+	mso-number-format:General;
 	text-align:center;
 	vertical-align:bottom;
-	border-top:none;
-	border-right:none;
-	border-bottom:2.0pt double windowtext;
-	border-left:none;
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:nowrap;}
@@ -240,9 +235,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:General;
+	mso-number-format:"\@";
 	text-align:center;
 	vertical-align:bottom;
 	border-top:none;
@@ -259,10 +254,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-ignore:padding;
 	color:windowtext;
 	font-size:11.0pt;
-	font-weight:700;
-	font-style:italic;
+	font-weight:400;
+	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:General;
 	text-align:center;
@@ -280,29 +275,11 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-left:1px;
 	mso-ignore:padding;
 	color:windowtext;
-	font-size:12.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:黑体, monospace;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:bottom;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl7729172
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
 	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
+	font-weight:700;
+	font-style:italic;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:General;
 	text-align:center;
@@ -314,6 +291,24 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:nowrap;}
+.xl7729172
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:仿宋, monospace;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
 .xl7829172
 	{padding-top:1px;
 	padding-right:1px;
@@ -321,10 +316,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-ignore:padding;
 	color:black;
 	font-size:11.0pt;
-	font-weight:700;
-	font-style:italic;
+	font-weight:400;
+	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:General;
 	text-align:center;
@@ -341,17 +336,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:red;
+	color:black;
 	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
+	font-weight:700;
+	font-style:italic;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:General;
 	text-align:center;
 	vertical-align:bottom;
-	border-top:2.0pt double windowtext;
+	border-top:none;
 	border-right:none;
 	border-bottom:2.0pt double windowtext;
 	border-left:none;
@@ -363,14 +358,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:red;
+	color:black;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:General;
+	mso-number-format:"\@";
 	text-align:center;
 	vertical-align:bottom;
 	mso-background-source:auto;
@@ -386,9 +381,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:"\@";
+	mso-number-format:General;
 	text-align:left;
 	vertical-align:bottom;
 	mso-background-source:auto;
@@ -404,11 +399,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:left;
+	mso-number-format:"\@";
+	text-align:center;
 	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:nowrap;}
@@ -417,34 +416,42 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:windowtext;
-	font-size:12.0pt;
-	font-weight:700;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:"\@";
-	text-align:left;
-	vertical-align:middle;
-	background:gray;
-	mso-pattern:black none;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:2.0pt double windowtext;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
 	white-space:nowrap;}
 .xl8429172
 	{padding-top:1px;
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:windowtext;
+	color:red;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:General;
-	text-align:left;
+	text-align:center;
 	vertical-align:bottom;
+	border-top:2.0pt double windowtext;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:nowrap;}
@@ -458,11 +465,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:General;
 	text-align:left;
 	vertical-align:bottom;
+	border-top:2.0pt double windowtext;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:nowrap;}
@@ -476,15 +487,11 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:General;
-	text-align:center;
+	text-align:general;
 	vertical-align:bottom;
-	border-top:2.0pt double windowtext;
-	border-right:none;
-	border-bottom:none;
-	border-left:none;
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:nowrap;}
@@ -493,15 +500,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:windowtext;
+	color:red;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:"\@";
-	text-align:left;
+	mso-number-format:General;
+	text-align:center;
 	vertical-align:bottom;
 	mso-background-source:auto;
 	mso-pattern:auto;
@@ -516,10 +523,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:"\@";
-	text-align:left;
+	mso-number-format:General;
+	text-align:general;
 	vertical-align:bottom;
 	mso-background-source:auto;
 	mso-pattern:auto;
@@ -534,10 +541,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:"\@";
-	text-align:left;
+	mso-number-format:General;
+	text-align:general;
 	vertical-align:bottom;
 	border-top:none;
 	border-right:none;
@@ -551,19 +558,19 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:black;
+	color:windowtext;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
-	mso-number-format:"\@";
-	text-align:left;
+	mso-number-format:General;
+	text-align:general;
 	vertical-align:bottom;
-	border-top:none;
+	border-top:2.0pt double windowtext;
 	border-right:none;
-	border-bottom:2.0pt double windowtext;
+	border-bottom:none;
 	border-left:none;
 	mso-background-source:auto;
 	mso-pattern:auto;
@@ -573,140 +580,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	padding-right:1px;
 	padding-left:1px;
 	mso-ignore:padding;
-	color:red;
+	color:black;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:黑体, monospace;
+	font-family:仿宋, monospace;
 	mso-font-charset:134;
 	mso-number-format:"\@";
 	text-align:left;
 	vertical-align:bottom;
-	border-top:2.0pt double windowtext;
-	border-right:none;
-	border-bottom:2.0pt double windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl9229172
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:red;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:黑体, monospace;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:2.0pt double windowtext;
-	border-right:none;
-	border-bottom:2.0pt double windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl9329172
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:windowtext;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:黑体, monospace;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl9429172
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:windowtext;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:黑体, monospace;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:2.0pt double windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl9529172
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:黑体, monospace;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl9629172
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:黑体, monospace;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:2.0pt double windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl9729172
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:黑体, monospace;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:general;
-	vertical-align:middle;
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:nowrap;}
@@ -722,8 +605,7 @@ rt
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-char-type:none;}
--->
-</style>
+--></style>
 </head>
 
 <body>
@@ -736,85 +618,98 @@ rt
 
 <div id="2018商品车加装产品-12-11_29172" align=center x:publishsource="Excel">
 
-<table border=0 cellpadding=0 cellspacing=0 width=894 class=xl6429172
- style='border-collapse:collapse;table-layout:fixed;width:672pt'>
- <col class=xl8129172 width=76 style='mso-width-source:userset;mso-width-alt:
- 2432;width:57pt'>
- <col class=xl8229172 width=59 style='mso-width-source:userset;mso-width-alt:
- 1888;width:44pt'>
- <col class=xl6429172 width=29 style='mso-width-source:userset;mso-width-alt:
- 928;width:22pt'>
- <col class=xl6429172 width=173 style='mso-width-source:userset;mso-width-alt:
- 5536;width:130pt'>
+<table border=0 cellpadding=0 cellspacing=0 width=1108 class=xl6429172
+ style='border-collapse:collapse;table-layout:fixed;width:833pt'>
+ <col class=xl6429172 width=12 style='mso-width-source:userset;mso-width-alt:
+ 384;width:9pt'>
+ <col class=xl8029172 width=89 style='mso-width-source:userset;mso-width-alt:
+ 2848;width:67pt'>
+ <col class=xl6429172 width=71 style='mso-width-source:userset;mso-width-alt:
+ 2272;width:53pt'>
+ <col class=xl6429172 width=37 style='mso-width-source:userset;mso-width-alt:
+ 1184;width:28pt'>
+ <col class=xl6429172 width=162 style='mso-width-source:userset;mso-width-alt:
+ 5184;width:122pt'>
  <col class=xl6429172 width=165 style='mso-width-source:userset;mso-width-alt:
  5280;width:124pt'>
- <col class=xl6429172 width=37 span=2 style='mso-width-source:userset;
- mso-width-alt:1184;width:28pt'>
- <col class=xl6429172 width=85 span=2 style='mso-width-source:userset;
- mso-width-alt:2720;width:64pt'>
- <col class=xl6429172 width=148 style='mso-width-source:userset;mso-width-alt:
- 4736;width:111pt'>
+ <col class=xl6429172 width=72 span=2 style='width:54pt'>
+ <col class=xl6429172 width=110 style='mso-width-source:userset;mso-width-alt:
+ 3520;width:83pt'>
+ <col class=xl6429172 width=88 style='mso-width-source:userset;mso-width-alt:
+ 2816;width:66pt'>
+ <col class=xl6429172 width=158 style='mso-width-source:userset;mso-width-alt:
+ 5056;width:119pt'>
+ <col class=xl6429172 width=72 style='width:54pt'>
  <tr height=41 style='mso-height-source:userset;height:30.75pt'>
-  <td height=41 class=xl6329172 colspan=4 width=337 style='height:30.75pt;
-  width:253pt'>2018商品车加装产品</td>
+  <td height=41 class=xl6429172 width=12 style='height:30.75pt;width:9pt'></td>
+  <td class=xl6329172 colspan=4 width=359 style='width:270pt'>2018商品车加装产品</td>
   <td class=xl6429172 width=165 style='width:124pt'></td>
-  <td class=xl6429172 width=37 style='width:28pt'></td>
-  <td class=xl6429172 width=37 style='width:28pt'></td>
-  <td class=xl6429172 width=85 style='width:64pt'></td>
-  <td class=xl6529172 width=85 style='width:64pt'>2018/12/11 原厂产品不包含安装工时</td>
-  <td class=xl6529172 width=148 style='width:111pt'></td>
+  <td class=xl6429172 width=72 style='width:54pt'></td>
+  <td class=xl6429172 width=72 style='width:54pt'></td>
+  <td class=xl6429172 width=110 style='width:83pt'></td>
+  <td class=xl6529172 colspan=3 width=318 style='width:239pt'>2018/12/11
+  原厂产品不包含安装工时</td>
  </tr>
- <tr class=xl6729172 height=32 style='mso-height-source:userset;height:24.0pt'>
-  <td height=32 class=xl6629172 style='height:24.0pt'>车辆信息</td>
-  <td class=xl8329172>车型</td>
-  <td class=xl6629172>序</td>
-  <td class=xl6629172>编码</td>
-  <td class=xl6629172>名称</td>
-  <td class=xl6629172>单位</td>
-  <td class=xl6629172>数量</td>
-  <td class=xl6629172>含税成本</td>
-  <td class=xl6629172>销售价</td>
-  <td class=xl6629172>备注</td>
+ <tr class=xl6829172 height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl6829172 style='height:24.0pt'></td>
+  <td class=xl6729172>商品车信息</td>
+  <td class=xl6729172>车型</td>
+  <td class=xl6729172>序</td>
+  <td class=xl6729172>编码</td>
+  <td class=xl6729172>名称</td>
+  <td class=xl6729172>单位</td>
+  <td class=xl6729172>数量</td>
+  <td class=xl6729172>含税成本</td>
+  <td class=xl6729172>销售价</td>
+  <td class=xl6729172>备注</td>
+  <td class=xl6829172></td>
  </tr>
- <tr class=xl7029172 height=19 style='height:14.25pt'>
-  <td height=19 class=xl8729172 style='height:14.25pt'>鄂A-VZ760</td>
-  <td class=xl9329172>S60L</td>
-  <td class=xl6929172>1</td>
-  <td class=xl6929172>31470559</td>
-  <td class=xl6929172>颈枕 （黑）</td>
-  <td class=xl6929172>件</td>
-  <td class=xl6929172>1</td>
-  <td class=xl6929172>490.99</td>
-  <td class=xl6929172>638</td>
-  <td class=xl6829172>已安装</td>
+ <tr class=xl7129172 height=19 style='height:14.25pt'>
+  <td height=19 class=xl7129172 style='height:14.25pt'></td>
+  <td class=xl6929172>鄂A-VZ760</td>
+  <td class=xl7029172>S60L</td>
+  <td class=xl7029172>1</td>
+  <td class=xl7029172>31470559</td>
+  <td class=xl7029172>颈枕 （黑）</td>
+  <td class=xl7029172>件</td>
+  <td class=xl7029172>1</td>
+  <td class=xl7029172>490.99</td>
+  <td class=xl7029172>638</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl7129172></td>
  </tr>
- <tr class=xl7229172 height=19 style='height:14.25pt'>
-  <td height=19 class=xl8829172 style='height:14.25pt'></td>
-  <td class=xl9329172>S60L</td>
-  <td class=xl6929172>2</td>
-  <td class=xl6929172>39835022</td>
-  <td class=xl6929172>脚垫（米色）</td>
-  <td class=xl6929172>套</td>
-  <td class=xl6929172>1</td>
-  <td class=xl6929172>359.8</td>
-  <td class=xl6929172>580</td>
-  <td class=xl6829172>已安装</td>
+ <tr class=xl7329172 height=19 style='height:14.25pt'>
+  <td height=19 class=xl7329172 style='height:14.25pt'></td>
+  <td class=xl7229172></td>
+  <td class=xl7029172>S60L</td>
+  <td class=xl7029172>2</td>
+  <td class=xl7029172>39835022</td>
+  <td class=xl7029172>脚垫（米色）</td>
+  <td class=xl7029172>套</td>
+  <td class=xl7029172>1</td>
+  <td class=xl7029172>359.8</td>
+  <td class=xl7029172>580</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl7329172></td>
  </tr>
- <tr class=xl7629172 height=20 style='height:15.0pt'>
-  <td height=20 class=xl8929172 style='height:15.0pt'>　</td>
-  <td class=xl9429172>　</td>
+ <tr class=xl7729172 height=20 style='height:15.0pt'>
+  <td height=20 class=xl7729172 style='height:15.0pt'></td>
   <td class=xl7429172>　</td>
-  <td class=xl7429172>　</td>
-  <td class=xl7429172>　</td>
-  <td class=xl7529172>小计</td>
   <td class=xl7529172>　</td>
   <td class=xl7529172>　</td>
   <td class=xl7529172>　</td>
-  <td class=xl7329172>　</td>
+  <td class=xl7529172>　</td>
+  <td class=xl7629172>小计</td>
+  <td class=xl7629172>　</td>
+  <td class=xl7629172>　</td>
+  <td class=xl7629172>　</td>
+  <td class=xl7429172>　</td>
+  <td class=xl7729172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8729172 style='height:14.25pt'>352714</td>
-  <td class=xl9529172>XC90</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
+  <td class=xl6929172>352714</td>
+  <td class=xl6429172>XC90</td>
   <td class=xl6429172>1</td>
   <td class=xl6429172>31439261</td>
   <td class=xl6429172>行李箱防擦条</td>
@@ -822,11 +717,13 @@ rt
   <td class=xl6429172>1</td>
   <td class=xl6429172>3858.55</td>
   <td class=xl6429172>5011</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8729172 style='height:13.5pt'></td>
-  <td class=xl9529172>XC90</td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl6929172></td>
+  <td class=xl6429172>XC90</td>
   <td class=xl6429172>2</td>
   <td class=xl6429172>31439262</td>
   <td class=xl6429172>防擦条线束</td>
@@ -834,11 +731,13 @@ rt
   <td class=xl6429172>1</td>
   <td class=xl6429172>580.41</td>
   <td class=xl6429172>806</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8729172 style='height:13.5pt'></td>
-  <td class=xl9529172>XC90</td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl6929172></td>
+  <td class=xl6429172>XC90</td>
   <td class=xl6429172>3</td>
   <td class=xl6429172>39793321</td>
   <td class=xl6429172>固定踏板</td>
@@ -846,11 +745,13 @@ rt
   <td class=xl6429172>1</td>
   <td class=xl6429172>9254.7</td>
   <td class=xl6429172>13221</td>
-  <td class=xl6829172>已安装，工时1500</td>
+  <td class=xl6929172>已安装，工时1500</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8729172 style='height:13.5pt'></td>
-  <td class=xl9529172>XC90</td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl6929172></td>
+  <td class=xl6429172>XC90</td>
   <td class=xl6429172>4</td>
   <td class=xl6429172>31414888</td>
   <td class=xl6429172>踏板安装软件</td>
@@ -858,23 +759,27 @@ rt
   <td class=xl6429172>1</td>
   <td class=xl6429172>220.9</td>
   <td class=xl6429172>276</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8929172 style='height:14.25pt'>　</td>
-  <td class=xl9629172>　</td>
-  <td class=xl7729172>　</td>
-  <td class=xl7729172>　</td>
-  <td class=xl7729172>　</td>
-  <td class=xl7829172>小计</td>
-  <td class=xl7829172>4</td>
-  <td class=xl7829172>13914.56</td>
-  <td class=xl7829172>19314</td>
-  <td class=xl7729172>　</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
+  <td class=xl7429172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7929172>小计</td>
+  <td class=xl7929172>4</td>
+  <td class=xl7929172>13914.56</td>
+  <td class=xl7929172>19314</td>
+  <td class=xl7829172>　</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8429172 style='height:14.25pt'>274128</td>
-  <td class=xl9729172><span style='mso-spacerun:yes'> </span>XC60</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
+  <td class=xl7029172>274128</td>
+  <td class=xl6429172><span style='mso-spacerun:yes'> </span>XC60 II</td>
   <td class=xl6429172>1</td>
   <td class=xl6429172>32207370</td>
   <td class=xl6429172>车顶行李盒</td>
@@ -882,11 +787,13 @@ rt
   <td class=xl6429172>1</td>
   <td class=xl6429172>14054</td>
   <td class=xl6429172>21294</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8429172 style='height:13.5pt'></td>
-  <td class=xl9729172><span style='mso-spacerun:yes'> </span>XC60</td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl7029172></td>
+  <td class=xl6429172><span style='mso-spacerun:yes'> </span>XC60 II</td>
   <td class=xl6429172>2</td>
   <td class=xl6429172>31470246</td>
   <td class=xl6429172>车顶行李架</td>
@@ -894,191 +801,224 @@ rt
   <td class=xl6429172>1</td>
   <td class=xl6429172>1471.84</td>
   <td class=xl6429172>2374</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8929172 style='height:14.25pt'>　</td>
-  <td class=xl9629172>　</td>
-  <td class=xl7729172>　</td>
-  <td class=xl7729172>　</td>
-  <td class=xl7729172>　</td>
-  <td class=xl7829172>小计</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
+  <td class=xl7429172>　</td>
   <td class=xl7829172>　</td>
-  <td class=xl7829172>15525.84</td>
-  <td class=xl7829172>23668</td>
-  <td class=xl7729172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7929172>小计</td>
+  <td class=xl7929172>　</td>
+  <td class=xl7929172>15525.84</td>
+  <td class=xl7929172>23668</td>
+  <td class=xl7829172>　</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8129172 style='height:14.25pt'>096019</td>
-  <td class=xl9529172>S90L</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
+  <td class=xl8029172>096019</td>
+  <td class=xl6429172>S90L</td>
   <td class=xl6429172>1</td>
   <td class=xl6429172>31408899</td>
   <td class=xl6429172>19寸铝合金车轮</td>
-  <td class=xl6929172>件</td>
+  <td class=xl7029172>件</td>
   <td class=xl6429172>4</td>
   <td class=xl6429172>2829</td>
   <td class=xl6429172>7448</td>
   <td class=xl6429172>已安装，工时360</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8129172 style='height:13.5pt'></td>
-  <td class=xl9529172></td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl8029172></td>
+  <td class=xl6429172></td>
   <td class=xl6429172>2</td>
   <td class=xl6429172>31110343</td>
   <td class=xl6429172>马牌255/40R19</td>
-  <td class=xl6929172>件</td>
+  <td class=xl7029172>件</td>
   <td class=xl6429172>4</td>
   <td class=xl6429172>1719</td>
   <td class=xl6429172>2148</td>
   <td class=xl6429172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8129172 style='height:13.5pt'></td>
-  <td class=xl9529172></td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl8029172></td>
+  <td class=xl6429172></td>
   <td class=xl6429172>3</td>
-  <td class=xl6429172>300.QT1669-A01-0001</td>
+  <td class=xl8129172>300.QT1669-A01-0001</td>
   <td class=xl6429172>盲区监测</td>
   <td class=xl6429172>件</td>
   <td class=xl6429172>1</td>
   <td class=xl6429172>2180</td>
   <td class=xl6429172>3200</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl9029172 style='height:14.25pt'>　</td>
-  <td class=xl9629172>　</td>
-  <td class=xl7729172>　</td>
-  <td class=xl7729172>　</td>
-  <td class=xl7729172>　</td>
-  <td class=xl7829172>小计</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
+  <td class=xl8229172>　</td>
   <td class=xl7829172>　</td>
-  <td class=xl7829172>6728</td>
-  <td class=xl7829172>12796</td>
-  <td class=xl7729172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7829172>　</td>
+  <td class=xl7929172>小计</td>
+  <td class=xl7929172>　</td>
+  <td class=xl7929172>6728</td>
+  <td class=xl7929172>12796</td>
+  <td class=xl7829172>　</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl9129172 style='height:15.0pt;border-top:none'>赵蕊</td>
-  <td class=xl9229172 style='border-top:none'>V90CC</td>
-  <td class=xl7929172 style='border-top:none'>1</td>
-  <td class=xl7929172 style='border-top:none'>300.QT1591-A01-0001</td>
-  <td class=xl7929172 style='border-top:none'>宝华中置喇叭+喇叭盖</td>
-  <td class=xl7929172 style='border-top:none'>件</td>
-  <td class=xl7929172 style='border-top:none'>1</td>
-  <td class=xl7929172 style='border-top:none'>3180</td>
-  <td class=xl7929172 style='border-top:none'>4600</td>
-  <td class=xl7929172 style='border-top:none'>已安装车已卖没出库</td>
+  <td height=20 class=xl6429172 style='height:15.0pt'></td>
+  <td class=xl8329172 style='border-top:none'>赵蕊</td>
+  <td class=xl8429172 style='border-top:none'>V90CC</td>
+  <td class=xl8429172 style='border-top:none'>1</td>
+  <td class=xl8529172 style='border-top:none'>300.QT1591-A01-0001</td>
+  <td class=xl8429172 style='border-top:none'>宝华中置喇叭+喇叭盖</td>
+  <td class=xl8429172 style='border-top:none'>件</td>
+  <td class=xl8429172 style='border-top:none'>1</td>
+  <td class=xl8429172 style='border-top:none'>3180</td>
+  <td class=xl8429172 style='border-top:none'>4600</td>
+  <td class=xl8429172 style='border-top:none'>已安装，车已卖没出库</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8129172 style='height:14.25pt'>095451</td>
-  <td class=xl9329172>S90L</td>
-  <td class=xl6929172>1</td>
-  <td class=xl6929172>300.QT1591-A01-0001</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
+  <td class=xl8029172>095451</td>
+  <td class=xl7029172>S90L</td>
+  <td class=xl7029172>1</td>
+  <td class=xl8629172>300.QT1591-A01-0001</td>
   <td class=xl6429172><font class="font629172">宝华中置喇叭+喇叭盖</font></td>
-  <td class=xl6929172>件</td>
-  <td class=xl6929172>1</td>
-  <td class=xl6929172>3180</td>
-  <td class=xl6929172>4600</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl7029172>件</td>
+  <td class=xl7029172>1</td>
+  <td class=xl7029172>3180</td>
+  <td class=xl7029172>4600</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8729172 style='height:13.5pt'></td>
-  <td class=xl9329172></td>
-  <td class=xl8029172>2</td>
-  <td class=xl8029172>300.QT1591-A01-0001</td>
-  <td class=xl8029172>盲区监测</td>
-  <td class=xl8029172>件</td>
-  <td class=xl8029172>1</td>
-  <td class=xl8029172>2180</td>
-  <td class=xl8029172>3200</td>
-  <td class=xl7129172>还没装</td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl6929172></td>
+  <td class=xl7029172></td>
+  <td class=xl8729172>2</td>
+  <td class=xl8829172>300.QT1591-A01-0001</td>
+  <td class=xl8729172>盲区监测</td>
+  <td class=xl8729172>件</td>
+  <td class=xl8729172>1</td>
+  <td class=xl8729172>2180</td>
+  <td class=xl8729172>3200</td>
+  <td class=xl7229172>还没装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8729172 style='height:13.5pt'></td>
-  <td class=xl9329172></td>
-  <td class=xl6929172>3</td>
-  <td class=xl6929172>300.QT1113-A01-0004</td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl6929172></td>
+  <td class=xl7029172></td>
+  <td class=xl7029172>3</td>
+  <td class=xl8629172>300.QT1113-A01-0004</td>
   <td class=xl6429172>电动尾门</td>
-  <td class=xl6929172>件</td>
-  <td class=xl6929172>1</td>
-  <td class=xl6929172>2380</td>
-  <td class=xl6929172>3500</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl7029172>件</td>
+  <td class=xl7029172>1</td>
+  <td class=xl7029172>2380</td>
+  <td class=xl7029172>3500</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8929172 style='height:14.25pt'>　</td>
-  <td class=xl9429172>　</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
   <td class=xl7429172>　</td>
-  <td class=xl7429172>　</td>
-  <td class=xl7429172>　</td>
-  <td class=xl7829172>小计</td>
-  <td class=xl7829172>　</td>
-  <td class=xl7829172>7740</td>
-  <td class=xl7829172>11300</td>
-  <td class=xl7429172>　</td>
+  <td class=xl7529172>　</td>
+  <td class=xl7529172>　</td>
+  <td class=xl8929172>　</td>
+  <td class=xl7529172>　</td>
+  <td class=xl7929172>小计</td>
+  <td class=xl7929172>　</td>
+  <td class=xl7929172>7740</td>
+  <td class=xl7929172>11300</td>
+  <td class=xl7529172>　</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8129172 style='height:14.25pt'>223155</td>
-  <td class=xl9729172><span style='mso-spacerun:yes'> </span>XC60</td>
-  <td class=xl6929172>1</td>
-  <td class=xl8629172 style='border-top:none'>300.QT1591-A01-0002</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
+  <td class=xl8029172>223155</td>
+  <td class=xl6429172><span style='mso-spacerun:yes'> </span>XC60 II</td>
+  <td class=xl7029172>1</td>
+  <td class=xl9029172 style='border-top:none'>300.QT1591-A01-0002</td>
   <td class=xl6429172>宝华中置喇叭+喇叭盖</td>
-  <td class=xl6929172>件</td>
-  <td class=xl6929172>1</td>
-  <td class=xl6929172>3180</td>
-  <td class=xl6929172>4600</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl7029172>件</td>
+  <td class=xl7029172>1</td>
+  <td class=xl7029172>3180</td>
+  <td class=xl7029172>4600</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8729172 style='height:13.5pt'></td>
-  <td class=xl9329172></td>
-  <td class=xl6929172>2</td>
-  <td class=xl6929172>300.QT1129-A01-0026</td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl6929172></td>
+  <td class=xl7029172></td>
+  <td class=xl7029172>2</td>
+  <td class=xl8629172>300.QT1129-A01-0026</td>
   <td class=xl6429172>电动尾门</td>
-  <td class=xl6929172>件</td>
-  <td class=xl6929172>1</td>
-  <td class=xl6929172>2380</td>
-  <td class=xl6929172>3500</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl7029172>件</td>
+  <td class=xl7029172>1</td>
+  <td class=xl7029172>2380</td>
+  <td class=xl7029172>3500</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8729172 style='height:13.5pt'></td>
-  <td class=xl9329172></td>
-  <td class=xl6929172>3</td>
-  <td class=xl6929172>300.QT1114-A01-0032</td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl6929172></td>
+  <td class=xl7029172></td>
+  <td class=xl7029172>3</td>
+  <td class=xl8629172>300.QT1114-A01-0032</td>
   <td class=xl6429172>电动踏板</td>
-  <td class=xl6929172>件</td>
-  <td class=xl6929172>1</td>
-  <td class=xl6929172>3980</td>
-  <td class=xl6929172>5800</td>
-  <td class=xl6829172>已安装</td>
+  <td class=xl7029172>件</td>
+  <td class=xl7029172>1</td>
+  <td class=xl7029172>3980</td>
+  <td class=xl7029172>5800</td>
+  <td class=xl6929172>已安装</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8929172 style='height:14.25pt'>　</td>
-  <td class=xl9429172>　</td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
   <td class=xl7429172>　</td>
-  <td class=xl7429172>　</td>
-  <td class=xl7429172>　</td>
-  <td class=xl7829172>小计</td>
-  <td class=xl7829172>　</td>
-  <td class=xl7829172>9540</td>
-  <td class=xl7829172>13900</td>
-  <td class=xl7429172>　</td>
+  <td class=xl7529172>　</td>
+  <td class=xl7529172>　</td>
+  <td class=xl7529172>　</td>
+  <td class=xl7529172>　</td>
+  <td class=xl7929172>小计</td>
+  <td class=xl7929172>　</td>
+  <td class=xl7929172>9540</td>
+  <td class=xl7929172>13900</td>
+  <td class=xl7529172>　</td>
+  <td class=xl6429172></td>
  </tr>
  <tr height=19 style='height:14.25pt'>
-  <td height=19 class=xl8829172 style='height:14.25pt'></td>
-  <td class=xl8529172></td>
-  <td class=xl8029172></td>
-  <td class=xl8029172></td>
-  <td class=xl8029172></td>
-  <td class=xl8029172></td>
-  <td class=xl8029172></td>
-  <td class=xl8029172></td>
+  <td height=19 class=xl6429172 style='height:14.25pt'></td>
+  <td class=xl7229172></td>
+  <td class=xl8729172></td>
+  <td class=xl8729172></td>
+  <td class=xl8729172></td>
+  <td class=xl8729172></td>
+  <td class=xl8729172></td>
+  <td class=xl8729172></td>
+  <td class=xl8729172></td>
+  <td class=xl6429172></td>
   <td class=xl6429172></td>
   <td class=xl6429172></td>
  </tr>
  <tr height=18 style='height:13.5pt'>
-  <td height=18 class=xl8129172 colspan=5 style='height:13.5pt'>装饰部提供产品含安装工时，集团规定标准销售价＝成本
-  * 1.45<span style='mso-spacerun:yes'> </span></td>
+  <td height=18 class=xl6429172 style='height:13.5pt'></td>
+  <td class=xl9129172 colspan=5>装饰部提供产品含安装工时，集团规定标准销售价＝成本 * 1.45<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl6429172></td>
   <td class=xl6429172></td>
   <td class=xl6429172></td>
   <td class=xl6429172></td>
@@ -1087,16 +1027,18 @@ rt
  </tr>
  <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
-  <td width=76 style='width:57pt'></td>
-  <td width=59 style='width:44pt'></td>
-  <td width=29 style='width:22pt'></td>
-  <td width=173 style='width:130pt'></td>
+  <td width=12 style='width:9pt'></td>
+  <td width=89 style='width:67pt'></td>
+  <td width=71 style='width:53pt'></td>
+  <td width=37 style='width:28pt'></td>
+  <td width=162 style='width:122pt'></td>
   <td width=165 style='width:124pt'></td>
-  <td width=37 style='width:28pt'></td>
-  <td width=37 style='width:28pt'></td>
-  <td width=85 style='width:64pt'></td>
-  <td width=85 style='width:64pt'></td>
-  <td width=148 style='width:111pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=110 style='width:83pt'></td>
+  <td width=88 style='width:66pt'></td>
+  <td width=158 style='width:119pt'></td>
+  <td width=72 style='width:54pt'></td>
  </tr>
  <![endif]>
 </table>
@@ -1110,3 +1052,4 @@ rt
 </body>
 
 </html>
+
